@@ -1,4 +1,12 @@
 h1 {
-    color:blue;
+    color:black;
     text-align: center;
+}
+
+#foo, #bar{
+    color:blue;
+}
+
+.baz {
+    color: blueviolet;
 }
